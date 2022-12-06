@@ -1,12 +1,25 @@
-# Desafio projeto Reactor
+<h1 align="center">
+  Resolvendo Problemas Simples Usando Programação Reativa com Reactor
+</h1>
 
-Para começarmos a nos habituar com programação reativa criamos esse projeto com 3 desafios para serem solucionados utilizando o Project Reactor, cada desafio está localizado em uma classe diferente e cada classe tem testes unitários para ficar fácil de acompanhar se seu código está no caminho certo, os desafios são os seguintes:
+<p align="center">
+  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">📝 License</a>
+</p>
 
- * **Question 1**: Recebe uma lista de longs, incrementa 1 nos valores e retorna um flux dos resultados;
+## 💻 Projeto
 
- * **Question 2**: Recebe uma lista de usuários e retorna a quantos usuários admin tem na lista;
+Repositório criado para o projeto "Resolvendo Problemas Simples Usando Programação Reativa com Reactor" da DIO.
 
- * **Question 3**: Verifica se o usuário passado é valido, caso seja retorna void, caso contrário deve disparar uma exception
-    (para esse desafio vamos considerar que o usário é valido quando ele tem uma senha com mais de 8 caractéres).
+## 🚀 Tecnologias
 
-Para fazer a verificação usando os testes rode o comando *gradle test* ( considerando que você tenha o gradle instalado em seu computador)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Java
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
