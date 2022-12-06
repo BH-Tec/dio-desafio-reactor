@@ -16,7 +16,10 @@ Repositório criado para o projeto "Resolvendo Problemas Simples Usando Programa
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Java
+<p align="center">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/reactor-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</p>
 
 ## 📝 License
 
